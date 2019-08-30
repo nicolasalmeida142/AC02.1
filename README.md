@@ -11,4 +11,4 @@ Antonio Nicolas
 6 - Adicionando arquivos com o git aa (ADD 1, ADD 2)
 7 - Commitando as mudanças (commit 1)
 8 - Enviando para o remoto (PUSH 1 e Push 2)
-9 - Criada uma branch "Aleatoria" no remoto e adicionado ao local. (Pull and Fetch)
+9 - Criada uma branch "Aleatoria" no remoto e adicionado ao local. (Pull and Fetch1)
